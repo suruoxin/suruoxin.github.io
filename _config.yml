@@ -11,12 +11,11 @@ photo: headshot.jpg  # place your photo in images/
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: ""
+  google_scholar: "https://scholar.google.com/citations?user=4y0z6twAAAAJ&hl=en"
   github: "https://github.com/suruoxin"
-  researchgate: ""
-  orcid: ""
-  twitter: ""
-  linkedin: ""
+  orcid: "https://orcid.org/0009-0008-1621-1036"
+
+  linkedin: "https://www.linkedin.com/in/ruoxin-su-4a897a18a/"
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
@@ -40,7 +39,6 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
   - name: team
   - name: teaching
   - name: blogs
