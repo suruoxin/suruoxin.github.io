@@ -4,8 +4,12 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+    - "(2023 - now) Ph.D. Law, Vrije Universiteit Brussel"
+    - "(2020 - 2021) LL.M., Leiden University"
+    - "(2019) Exchange, University of Trento"
+    - "(2016 - 2020) LL.B., Zhongnan University of Economy and Law"
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+    - "(2023 - now) Ph.D. Law, Vrije Universiteit Brussel"
+    - "(2020 - 2021) LL.M., Leiden University"
+    - "(2019) Exchange, University of Trento"
+    - "(2016 - 2020) LL.B., Zhongnan University of Economy and Law"
