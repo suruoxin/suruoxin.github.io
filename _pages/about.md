@@ -37,11 +37,11 @@ permalink: /about/
 <div class="section-card">
 <h3>Work Experience</h3>
 <ul>
-<li>2023 - now: Researcher, Vrije Universiteit Brussel, Brussels, Belgium</li>
-<li>2022 - 2023: Privacy Counsel (secondee), Apple Electronics Products Commerce, Beijing, China</li>
-<li>2021 - 2023: Lawyer, Junhe LLP, Beijing, China</li>
-<li>2020: Legal Assistant, Grandall Law Firm, Zhengzhou, China</li>
-<li>2016 - 2017: Barista, Caicai Cafe, Wuhan, China</li>
+<li>(2023 - now) Researcher, Vrije Universiteit Brussel, Brussels, Belgium</li>
+<li>(2022 - 2023) Privacy Counsel (secondee), Apple Electronics Products Commerce, Beijing, China</li>
+<li>(2021 - 2023) Lawyer, Junhe LLP, Beijing, China</li>
+<li>(2020) Legal Assistant, Grandall Law Firm, Zhengzhou, China</li>
+<li>(2016 - 2017) Barista, Caicai Cafe, Wuhan, China</li>
 </ul>
 </div>
 {% endif %}
@@ -61,6 +61,8 @@ permalink: /about/
 <ul>
 <li>(2025) Top Policy Provocation Paper Award, Privacy Law Scholars Conference (PLSC) – Europe 2025, Leiden, The Netherlands</li>
 <li>(2020) Eagle Support Project Scholarship for Advanced Legal Studies, Zhongnan University of Economics and Law (ZUEL)</li>
+<li>(2020) Outstanding Undergraduate Award, ZUEL</li>
+<li>(2020) Outstanding Undergraduate Thesis Award, ZUEL</li>
 <li>(2019) International Exchange Programme Scholarship for Outstanding Undergraduates, China Scholarship Council</li>
 <li>(2018) Bank of China Scholarship, Bank of China & ZUEL</li>
 <li>(2017 - 2019) Second-Class & Third-Class University Scholarships, ZUEL</li>
