@@ -37,11 +37,11 @@ permalink: /about/
 <div class="section-card">
 <h3>Work Experience</h3>
 <ul>
-<li>Jun. 2023 - now: Researcher, Vrije Universiteit Brussel, Brussels, Belgium</li>
-<li>Nov. 2022 - Jan. 2023: Privacy Counsel (secondee), Apple Electronics Products Commerce, Beijing, China</li>
-<li>Oct. 2021 - May 2023: Lawyer, Junhe LLP, Beijing, China</li>
-<li>Jun. 2020 - Jul. 2020: Legal Assistant, Grandall Law Firm, Zhengzhou, China</li>
-<li>Sep. 2016 - Jun. 2017: Barista, Caicai Cafe, Wuhan, China</li>
+<li>2023 - now: Researcher, Vrije Universiteit Brussel, Brussels, Belgium</li>
+<li>2022 - 2023: Privacy Counsel (secondee), Apple Electronics Products Commerce, Beijing, China</li>
+<li>2021 - 2023: Lawyer, Junhe LLP, Beijing, China</li>
+<li>2020: Legal Assistant, Grandall Law Firm, Zhengzhou, China</li>
+<li>2016 - 2017: Barista, Caicai Cafe, Wuhan, China</li>
 </ul>
 </div>
 {% endif %}
