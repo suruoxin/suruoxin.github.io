@@ -57,11 +57,14 @@ permalink: /about/
 
 {% if site.data.people %}
 <div class="section-card">
-<h3>Students and Mentoring</h3>
+<h3>Honors and Awards</h3>
 <ul>
-{% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
-{% endfor %}
+<li>(2025) Top Policy Provocation Paper Award, Privacy Law Scholars Conference (PLSC) – Europe 2025, Leiden, The Netherlands</li>
+<li>(2020) Eagle Support Project Scholarship for Advanced Legal Studies, Zhongnan University of Economics and Law (ZUEL)</li>
+<li>(2019) International Exchange Programme Scholarship for Outstanding Undergraduates, China Scholarship Council</li>
+<li>(2018) Bank of China Scholarship, Bank of China & ZUEL</li>
+<li>(2017 - 2019) Second-Class & Third-Class University Scholarships, ZUEL</li>
+<li>(2017) First Prize (Team), University Volleyball Competition, ZUEL</li>
 </ul>
 </div>
 {% endif %}
