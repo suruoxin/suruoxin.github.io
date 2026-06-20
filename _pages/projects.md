@@ -10,6 +10,7 @@ permalink: /projects/
 <div class="research-grid">
 
 <div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projects/magenda.png" class="research-thumb" alt="MAGENDA logo">
 <div class="research-body">
 <h4 class="research-title">MAGENDA</h4>
 <p class="research-desc">Mainstreaming Gender Equality in Academia</p>
@@ -18,6 +19,7 @@ permalink: /projects/
 </div>
 
 <div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projects/ckn.png" class="research-thumb" alt="China Knowledge Network (CKN) logo">
 <div class="research-body">
 <h4 class="research-title">CHINA KNOWLEDGE NETWORK (CKN)</h4>
 <p class="research-desc">Understanding China’s Export Controls</p>
@@ -26,6 +28,7 @@ permalink: /projects/
 </div>
 
 <div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projects/planet4health.png" class="research-thumb" alt="PLANET4HEALTH logo">
 <div class="research-body">
 <h4 class="research-title">PLANET4HEALTH</h4>
 <p class="research-desc">Planetary Health in a Degrading Environment: Interactions Between Human, Animal, and Ecosystem Health</p>
@@ -34,6 +37,7 @@ permalink: /projects/
 </div>
 
 <div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projects/cymedsec.png" class="research-thumb" alt="CYMEDSEC logo">
 <div class="research-body">
 <h4 class="research-title">CYMEDSEC</h4>
 <p class="research-desc">Enhanced Cybersecurity for Networked Medical Devices through Optimisation of Guidelines, Standards, Risk Management and Security by Design</p>
@@ -42,6 +46,7 @@ permalink: /projects/
 </div>
 
 <div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projects/pro-gendering.png" class="research-thumb" alt="PRO-GENDERING logo">
 <div class="research-body">
 <h4 class="research-title">PRO-GENDERING</h4>
 <p class="research-desc">Promoting Gender Equality, Inclusion and Diversity in Higher Education Institutions and Communities</p>
