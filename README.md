@@ -418,7 +418,6 @@ Each page in `_pages/` is a Markdown file. Edit the content directly:
 
 - `home.md` — your welcome text and bio
 - `research.md` — describe your research areas
-- `software.md` — list your software projects
 - `teaching.md` — list your courses
 
 To remove a page from the navbar, comment it out in `_config.yml`:

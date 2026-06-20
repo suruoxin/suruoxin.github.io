@@ -39,7 +39,6 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
   - name: team
   - name: teaching
   - name: blogs
@@ -91,7 +90,7 @@ scholar:
   details_link: Details
   query: "@*"
   bibliography_list_attributes:
-    reversed: "reversed"
+    # reversed: "reversed"
 
 exclude:
   - Gemfile
