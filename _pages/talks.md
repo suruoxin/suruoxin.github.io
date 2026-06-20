@@ -46,7 +46,7 @@ permalink: /talks/
 <div class="text-justify"><b>9th Conference of the European Association of Health Law: “Health and Fundamental Rights” (Warsaw, Poland)</b>, FemTech Concerns: A Fundamental Rights Perspective through the ECHR, September 2024.</div>
 </div></li>
 <li><div class="pub-entry" data-pub-searchable>
-<div class="text-justify"><b>Legal Technologies and the Bodies Conference (Sciences Po Law School) (Paris, France)</b>, FemTech Concerns: A Fundamental Rights Perspective through the ECHR, March 2024.</div>
+<div class="text-justify"><b>Legal Technologies and the Bodies Conference (Sciences Po Law School, Paris, France)</b>, FemTech Concerns: A Fundamental Rights Perspective through the ECHR, March 2024.</div>
 </div></li>
 <li><div class="pub-entry" data-pub-searchable>
 <div class="text-justify"><b>Oxford Chinese Law Discussion Group Conference for Junior Researchers (Oxford, UK)</b>, What Can We Expect from China’s New Rules for Cross-Border Transfer: Status Quo and Reflection, May 2024.</div>
@@ -57,7 +57,7 @@ permalink: /talks/
 
 <ol class="bibliography">
 <li><div class="pub-entry" data-pub-searchable>
-<div class="text-justify"><b>Data Protection Scholars Network online seminar series (Faculty of Law and Criminology, VUB) (Brussels, Belgium)</b>, The Brussels effect in China: What happened after the Personal Information Protection Law (PIPL) and how will it go?, June 2023.</div>
+<div class="text-justify"><b>Data Protection Scholars Network online seminar series (VUB, Brussels, Belgium)</b>, The Brussels effect in China: What happened after the Personal Information Protection Law (PIPL) and how will it go?, June 2023.</div>
 </div></li>
 </ol>
 </div>
