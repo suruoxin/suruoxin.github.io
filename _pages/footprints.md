@@ -7,6 +7,18 @@ permalink: /footprints/
 
 ## Footprints👣
 
+<div class="footprints-map-wrap">
+<div id="footprints-map" data-world="{{ site.url }}{{ site.baseurl }}/assets/data/countries-110m.json" data-footprints="{{ site.url }}{{ site.baseurl }}/assets/data/footprints.json"></div>
+<div class="footprints-legend">
+<span class="legend-item"><span class="legend-swatch visited"></span>Visited</span>
+<span class="legend-item"><span class="legend-swatch"></span>Not visited</span>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/footprints-map.js"></script>
+
 {% if site.posts.size > 0 %}
 <div class="section-card" markdown="0">
 {% for post in site.posts %}
