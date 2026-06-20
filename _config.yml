@@ -89,8 +89,6 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
   query: "@*"
-  bibliography_list_attributes:
-    # reversed: "reversed"
 
 exclude:
   - Gemfile
