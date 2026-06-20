@@ -9,11 +9,11 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Data Protection Law</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Genetic Data</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Health Data</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Medical Device Regulation</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Chinese Digital Laws and Policies</a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects" class="chip">Data Protection Law</a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects" class="chip">Genetic Data</a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects" class="chip">Health Data</a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects" class="chip">Medical Device Regulation</a>
+<a href="{{ site.url }}{{ site.baseurl }}/projects" class="chip">Chinese Digital Laws and Policies</a>
 </div>
 
 你好 | Hello | Bonjour 👋
