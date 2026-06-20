@@ -1,11 +1,11 @@
 ---
-title: "Blog"
+title: "Footprints"
 layout: gridlay
 sitemap: false
-permalink: /blogs/
+permalink: /footprints/
 ---
 
-## Blog
+## Footprints👣
 
 {% if site.posts.size > 0 %}
 <div class="section-card" markdown="0">
