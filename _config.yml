@@ -39,8 +39,9 @@ nav_pages:
   - name: publications
   - name: talks
   - name: projects
+  - name: cv
+    label: CV
   - name: team
-  - name: teaching
   - name: blogs
 
 # ============================================================
