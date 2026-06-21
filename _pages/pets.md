@@ -7,7 +7,7 @@ permalink: /pets/
 
 ## Pets 🐾
 
-**A small corner dedicated to my cats and dog, who accompany life beyond academia.**
+**A small corner dedicated to our cats and dog, who accompany life beyond academia.**
 
 ## Cats
 
