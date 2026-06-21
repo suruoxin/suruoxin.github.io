@@ -15,7 +15,7 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/projects" class="chip">Chinese Digital Laws and Policies</a>
 </div>
 
-你好 | Hello | Bonjour 👋 Welcome to my academic webpage.
+你好 / Hello / Bonjour 👋 Welcome to my academic webpage.
 
 This site showcases my research, publications, academic work and activities, and joys of my life.
 
