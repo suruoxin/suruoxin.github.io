@@ -11,7 +11,7 @@ permalink: /footprints/
 <div id="footprints-map" data-world="{{ site.url }}{{ site.baseurl }}/assets/data/countries-110m.json" data-footprints="{{ site.url }}{{ site.baseurl }}/assets/data/footprints.json"></div>
 <div class="footprints-legend">
 <span class="legend-item"><span class="legend-swatch visited"></span>Visited</span>
-<span class="legend-item"><span class="legend-swatch"></span>Not visited</span>
+<span class="legend-item"><span class="legend-swatch"></span>To be explored</span>
 </div>
 </div>
 
