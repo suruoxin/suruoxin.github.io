@@ -16,7 +16,13 @@ permalink: /pets/
 <img src="{{ site.url }}{{ site.baseurl }}/images/team/kibbeling.jpg" class="pi-photo pet-photo" alt="Kibbeling" loading="lazy">
 <div>
 <h3 class="pi-name">Kibbeling</h3>
-<p style="font-style: italic; color: var(--text-secondary);">Content coming soon</p>
+<p style="font-style: italic; color: var(--text-secondary);">Born in China, July 2021 (joined the family in November 2021), he/him</p>
+<ul style="margin-top: var(--space-4);">
+<li>Adopted in Beijing and travelled internationally in cabin</li>
+<li>Eats only dry food rather than wet food, and may push objects off surfaces when hungry</li>
+<li>Frequently grooms and licks himself to keep his fur spotless</li>
+<li>Independent personality, prefers solitude and keeps a natural distance from people</li>
+</ul>
 </div>
 </div>
 </div>
@@ -26,7 +32,13 @@ permalink: /pets/
 <img src="{{ site.url }}{{ site.baseurl }}/images/team/61.jpg" class="pi-photo pet-photo" alt="61" loading="lazy">
 <div>
 <h3 class="pi-name">61</h3>
-<p style="font-style: italic; color: var(--text-secondary);">Content coming soon</p>
+<p style="font-style: italic; color: var(--text-secondary);">Born in Belgium, January 2020 (joined family in April 2024), she/her</p>
+<ul style="margin-top: var(--space-4);">
+<li>A brown tabby cat adopted from a Brussels animal shelter</li>
+<li>Not picky with food, especially loves canned food and chicken</li>
+<li>Playful hunter-type personality, fast and highly reactive, and especially enjoys chase games</li>
+<li>Affectionate with humans, often sleeps close or on us</li>
+</ul>
 </div>
 </div>
 </div>
@@ -58,7 +70,14 @@ permalink: /pets/
 <img src="{{ site.url }}{{ site.baseurl }}/images/team/chai.jpg" class="pi-photo pet-photo" alt="Chai" loading="lazy">
 <div>
 <h3 class="pi-name">Chai</h3>
-<p style="font-style: italic; color: var(--text-secondary);">Content coming soon</p>
+<p style="font-style: italic; color: var(--text-secondary);">Born in China, January 2019 (joined family in December 2024), he/him</p>
+<ul style="margin-top: var(--space-4);">
+<li>Rescued by a Chinese animal rescue organization and later adopted by us</li>
+<li>Calm and gentle in nature, but sensitive and slightly shy</li>
+<li>Loves forests and companionship, and enjoys spending time outdoors (well-traveled across several European countries)</li>
+<li>Enjoys especially apples, carrots, and canned food</li>
+<li>Tends to gently soothe people by stepping in when they appear to be arguing</li>
+</ul>
 </div>
 </div>
 </div>
