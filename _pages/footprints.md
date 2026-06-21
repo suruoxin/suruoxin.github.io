@@ -7,7 +7,7 @@ permalink: /footprints/
 
 ## Footprints👣
 
-<div class="footprints-map-wrap">
+<div class="footprints-map-wrap" markdown="0">
 <div id="footprints-map" data-world="{{ site.url }}{{ site.baseurl }}/assets/data/countries-110m.json" data-footprints="{{ site.url }}{{ site.baseurl }}/assets/data/footprints.json"></div>
 <div class="footprints-legend">
 <span class="legend-item"><span class="legend-swatch visited"></span>Visited</span>
