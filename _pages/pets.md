@@ -32,7 +32,7 @@ permalink: /pets/
 <img src="{{ site.url }}{{ site.baseurl }}/images/team/61.jpg" class="pi-photo pet-photo" alt="61" loading="lazy">
 <div>
 <h3 class="pi-name">61</h3>
-<p style="font-style: italic; color: var(--text-secondary);">Born in Belgium, January 2020 (joined family in April 2024), she/her</p>
+<p style="font-style: italic; color: var(--text-secondary);">Born in Belgium, January 2020 (joined the family in April 2024), she/her</p>
 <ul style="margin-top: var(--space-4);">
 <li>A brown tabby cat adopted from a Brussels animal shelter</li>
 <li>Not picky with food, especially loves canned food and chicken</li>
@@ -70,7 +70,7 @@ permalink: /pets/
 <img src="{{ site.url }}{{ site.baseurl }}/images/team/chai.jpg" class="pi-photo pet-photo" alt="Chai" loading="lazy">
 <div>
 <h3 class="pi-name">Chai</h3>
-<p style="font-style: italic; color: var(--text-secondary);">Born in China, January 2019 (joined family in December 2024), he/him</p>
+<p style="font-style: italic; color: var(--text-secondary);">Born in China, January 2019 (joined the family in December 2024), he/him</p>
 <ul style="margin-top: var(--space-4);">
 <li>Rescued by a Chinese animal rescue organization and later adopted by us</li>
 <li>Calm and gentle in nature, but sensitive and slightly shy</li>
