@@ -53,13 +53,14 @@
       .on("mouseenter", function (event, d) {
         var entry = footprints[d.properties.name];
         d3.select(this).classed("hovered", true);
+        var timeLines = entry && entry.time ? (Array.isArray(entry.time) ? entry.time : [entry.time]) : [];
         tooltip
           .classed("show", true)
           .html(
             "<strong>" +
               d.properties.name +
               "</strong>" +
-              (entry && entry.time ? "<br>" + entry.time : "")
+              timeLines.map(function (line) { return "<br>" + line; }).join("")
           );
       })
       .on("mousemove", function (event) {
