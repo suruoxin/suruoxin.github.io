@@ -25,7 +25,7 @@ accent_color: "#059669"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic webpage of Ruoxin (Mia) Su"
 baseurl: ""
-url: ""
+url: "https://suruoxin.github.io"
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
