@@ -28,6 +28,4 @@ permalink: /footprints/
 </div>
 {% endfor %}
 </div>
-{% else %}
-<p class="text-muted">No blog posts yet.</p>
 {% endif %}
