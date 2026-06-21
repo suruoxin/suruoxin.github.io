@@ -13,7 +13,7 @@ permalink: /pets/
 
 <div class="section-card">
 <div class="pi-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/team/kibbeling.jpg" class="pi-photo" alt="Kibbeling" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team/kibbeling.jpg" class="pi-photo pet-photo" alt="Kibbeling" loading="lazy">
 <div>
 <h3 class="pi-name">Kibbeling</h3>
 <p style="font-style: italic; color: var(--text-secondary);">Content coming soon</p>
@@ -23,7 +23,7 @@ permalink: /pets/
 
 <div class="section-card">
 <div class="pi-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/team/61.jpg" class="pi-photo" alt="61" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team/61.jpg" class="pi-photo pet-photo" alt="61" loading="lazy">
 <div>
 <h3 class="pi-name">61</h3>
 <p style="font-style: italic; color: var(--text-secondary);">Content coming soon</p>
@@ -55,7 +55,7 @@ permalink: /pets/
 
 <div class="section-card">
 <div class="pi-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/team/chai.jpg" class="pi-photo" alt="Chai" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team/chai.jpg" class="pi-photo pet-photo" alt="Chai" loading="lazy">
 <div>
 <h3 class="pi-name">Chai</h3>
 <p style="font-style: italic; color: var(--text-secondary);">Content coming soon</p>

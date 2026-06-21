@@ -91,6 +91,17 @@
     }
   }
 
+  // Pets page — larger photo (~1/4 of the card width)
+  .pi-photo.pet-photo {
+    width: 240px;
+    height: 240px;
+
+    @media (max-width: 640px) {
+      width: 140px;
+      height: 140px;
+    }
+  }
+
   .pi-name {
     font-family: 'Source Serif 4', Georgia, serif;
     margin-top: 0;
