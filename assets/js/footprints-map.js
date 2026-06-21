@@ -29,7 +29,7 @@
   // Display-name overrides: the base map's name is replaced with the
   // preferred label everywhere (tooltip text and footprints.json lookups).
   var nameOverrides = {
-    Taiwan: "Chinese Taipei"
+    Taiwan: "Taiwan Region"
   };
 
   Promise.all([d3.json(worldUrl), d3.json(footprintsUrl)]).then(function (results) {
