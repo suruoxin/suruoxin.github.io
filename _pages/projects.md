@@ -23,7 +23,7 @@ permalink: /projects/
 <div class="research-body">
 <h4 class="research-title">CHINA KNOWLEDGE NETWORK (CKN)</h4>
 <p class="research-desc">Understanding China’s Export Controls</p>
-<p class="research-desc">Duration: Jul. 2025 – Apr. 2026<br>Institutional Funding: Dutch Ministry of Foreign Affairs<br>Role: Collaborator</p>
+<p class="research-desc">Duration: Jul. 2025 – Apr. 2026<br>Funder: Dutch Ministry of Foreign Affairs<br>Role: Collaborator</p>
 </div>
 </div>
 
