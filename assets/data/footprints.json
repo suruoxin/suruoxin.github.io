@@ -8,7 +8,7 @@
   "Spain": { "visited": true, "time": ["2019", "2024", "2026"] },
   "Czechia": { "visited": true, "time": ["2019"] },
   "Austria": { "visited": true, "time": ["2019", "2021"] },
-  "Hungary": { "visited": true, "time": ["2019"] },
+  "Hungary": { "visited": true, "time": ["2019", "2026"] },
   "Greece": { "visited": true, "time": ["2019", "2026"] },
   "Germany": { "visited": true, "time": ["2019", "2023", "2024", "2025"] },
   "Turkey": { "visited": true, "time": ["2024"] },
