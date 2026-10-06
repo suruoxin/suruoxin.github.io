@@ -11,6 +11,9 @@ permalink: /talks/
 
 <ol class="bibliography">
 <li><div class="pub-entry" data-pub-searchable>
+<div class="text-justify"><b>10th Asian Privacy Scholars Network Conference "Privacy and Data Protection in the Age of Intelligent Systems" (Hong Kong, China)</b>, Cross-Border Flows of Genetic Data in EU-China Scientific Collaboration: A Comparative Analysis of Regulatory Barriers, September 2026.</div>
+</div></li>
+<li><div class="pub-entry" data-pub-searchable>
 <div class="text-justify"><b>TILTing Perspectives 2026 Conference “Between Values and Innovation: Tech Governance in a Multicentric World” (Tilburg, the Netherlands)</b>, Cross-Border Flows of Genetic Data in EU-China Scientific Collaboration: A Comparative Analysis of Regulatory Barriers, June 2026.</div>
 </div></li>
 <li><div class="pub-entry" data-pub-searchable>
