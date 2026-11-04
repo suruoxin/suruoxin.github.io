@@ -41,6 +41,33 @@
       d.properties.name = nameOverrides[d.properties.name] || d.properties.name;
     });
 
+    // France's geometry bundles French Guiana (South America) together with
+    // mainland France/Corsica as one MultiPolygon. Split it out as its own
+    // unnamed feature so it never inherits France's "visited" fill.
+    countries.forEach(function (d) {
+      if (d.properties.name !== "France" || d.geometry.type !== "MultiPolygon") {
+        return;
+      }
+      var mainland = [];
+      var guiana = [];
+      d.geometry.coordinates.forEach(function (polygon) {
+        // South American territories sit well west of mainland France/Corsica.
+        if (polygon[0][0][0] < -40) {
+          guiana.push(polygon);
+        } else {
+          mainland.push(polygon);
+        }
+      });
+      if (guiana.length) {
+        d.geometry.coordinates = mainland;
+        countries.push({
+          type: "Feature",
+          properties: { name: "French Guiana" },
+          geometry: { type: "MultiPolygon", coordinates: guiana }
+        });
+      }
+    });
+
     svg
       .selectAll("path.country")
       .data(countries)
