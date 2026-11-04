@@ -20,5 +20,6 @@
   "Switzerland": { "visited": true, "time": ["2025"] },
   "Serbia": { "visited": true, "time": ["2025"] },
   "Nepal": { "visited": true, "time": ["2025"] },
-  "Bangladesh": { "visited": true, "time": ["2026"] }
+  "Bangladesh": { "visited": true, "time": ["2026"] },
+  "Mozambique": { "visited": true, "time": ["2026"] }
 }
