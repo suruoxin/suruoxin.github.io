@@ -45,6 +45,14 @@ permalink: /about/
 </div>
 {% endif %}
 
+<div class="section-card">
+<h3>Membership</h3>
+<ul>
+<li>(2026 - 2030) Legal expert in new technologies under the European Data Protection Board’s Support Pool of Experts Programme</li>
+<li>(2026 - 2028) Member of the Ethics Advisory Board of the EU-funded SCHOOLWISE project</li>
+</ul>
+</div>
+
 {% if site.data.awards %}
 <div class="section-card">
 <h3>Research Grants</h3>
